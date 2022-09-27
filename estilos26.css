@@ -1,0 +1,21 @@
+﻿body{
+    font-family:Tahoma;
+    color: white;
+    text-align: center;
+
+}
+section{
+    width: 750px;
+    background: black;
+}
+span#titulo{
+    font-size: 15px;
+    margin:5px;
+}
+span#titulo{
+    font-size:12px;
+    margin:5px;
+}
+p{
+    font-size: 12px;
+}
